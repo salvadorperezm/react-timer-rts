@@ -1,0 +1,9 @@
+.hero-container {
+  padding-inline: 20px;
+  border: 1px solid black;
+  margin: 0 auto;
+  max-width: 1200px;
+
+  display: grid;
+  place-items: center;
+}
